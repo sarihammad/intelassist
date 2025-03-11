@@ -84,7 +84,3 @@ intelassist/
 3. **Speech Processing**: Whisper for STT, Coqui AI for TTS
 4. **Memory System**: FAISS or ChromaDB for vector storage
 5. **RLHF Pipeline**: Fine-tuning with human feedback
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
